@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="unerreichbarHoech.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1264"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1262" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path863" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="6419.8002"
+     inkscape:cx="6237.8499"
+     inkscape:zoom="0.030935922"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <text
+       id="text835"
+       y="36.348656"
+       x="36.883194"
+       style="font-size:10.5833px;line-height:1.25;font-family:slave;-inkscape-font-specification:slave;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="36.348656"
+         x="36.883194"
+         id="tspan833"
+         sodipodi:role="line">Unerreichbar hööch</tspan></text>
+    <path
+       id="path837"
+       d="M 61.471991,140.58377 C 65.748303,134.70384 111.18412,62.00653 111.18412,62.00653"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 160.89624,140.58377 C 156.61993,134.70384 111.18412,62.00653 111.18412,62.00653"
+       id="path837-6" />
+    <text
+       id="text856"
+       y="138.44562"
+       x="191.89952"
+       style="font-size:10.5833px;line-height:1.25;font-family:slave;-inkscape-font-specification:slave;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="138.44562"
+         x="191.89952"
+         id="tspan854"
+         sodipodi:role="line">IQ</tspan></text>
+    <path
+       id="path858"
+       d="M 186.55411,141.65285 V 58.264755"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       r="3.4896245"
+       cy="81.249939"
+       cx="117.59859"
+       id="path1148"
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.435219;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000" />
+    <circle
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.435218;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path1148-3"
+       cx="89.268021"
+       cy="125.08214"
+       r="3.4896245" />
+    <path
+       id="path1165"
+       d="M 116.52952,81.249936 H 44.901281"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path1167"
+       d="M 44.366742,125.08751 H 89.26802"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path1169"
+       d="M 53.453905,70.559154 V 137.37654"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text1173"
+       y="99.248909"
+       x="8.4564238"
+       style="font-size:4.39537px;line-height:1.25;font-family:slave;-inkscape-font-specification:slave;stroke-width:0.109884"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.109884"
+         y="99.248909"
+         x="8.4564238"
+         id="tspan1171"
+         sodipodi:role="line">Erkenntnis-</tspan><tspan
+         id="tspan1175"
+         style="stroke-width:0.109884"
+         y="104.74312"
+         x="8.4564238"
+         sodipodi:role="line">Differenz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.39536px;line-height:1.25;font-family:slave;-inkscape-font-specification:slave;stroke-width:0.109884"
+       x="40.869991"
+       y="205.15372"
+       id="text1173-3"><tspan
+         sodipodi:role="line"
+         x="40.869991"
+         y="205.15372"
+         style="stroke-width:0.109884"
+         id="tspan1175-1">Erkenntnis-Differenz</tspan><tspan
+         id="tspan1202"
+         sodipodi:role="line"
+         x="40.869991"
+         y="210.64792"
+         style="stroke-width:0.109884">-</tspan><tspan
+         id="tspan1204"
+         sodipodi:role="line"
+         x="40.869991"
+         y="216.14212"
+         style="stroke-width:0.109884">-</tspan><tspan
+         id="tspan1206"
+         sodipodi:role="line"
+         x="40.869991"
+         y="221.63632"
+         style="stroke-width:0.109884">-</tspan><tspan
+         id="tspan1208"
+         sodipodi:role="line"
+         x="40.869991"
+         y="227.13052"
+         style="stroke-width:0.109884">-</tspan><tspan
+         id="tspan1210"
+         sodipodi:role="line"
+         x="40.869991"
+         y="232.62471"
+         style="stroke-width:0.109884">-</tspan><tspan
+         id="tspan1200"
+         sodipodi:role="line"
+         x="40.869991"
+         y="238.11891"
+         style="stroke-width:0.109884" /></text>
+    <text
+       id="text1214"
+       y="198.4375"
+       x="131.15773"
+       style="font-size:10.5833px;line-height:1.25;font-family:slave;-inkscape-font-specification:slave;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="198.4375"
+         x="131.15773"
+         id="tspan1212"
+         sodipodi:role="line">antagonierende Dogmenräume</tspan></text>
+    <text
+       id="text1218"
+       y="48.108513"
+       x="238.13715"
+       style="font-size:10.5833px;line-height:1.25;font-family:slave;-inkscape-font-specification:slave;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="48.108513"
+         x="238.13715"
+         id="tspan1216"
+         sodipodi:role="line">abschiessen</tspan><tspan
+         id="tspan1220"
+         style="stroke-width:0.264583"
+         y="61.337639"
+         x="238.13715"
+         sodipodi:role="line">-&gt;geschenk</tspan><tspan
+         id="tspan1222"
+         style="stroke-width:0.264583"
+         y="74.566765"
+         x="238.13715"
+         sodipodi:role="line">-&gt;patho</tspan></text>
+    <text
+       id="text1226"
+       y="389.67892"
+       x="596.54559"
+       style="font-size:10.5833px;line-height:1.25;font-family:slave;-inkscape-font-specification:slave;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="389.67892"
+         x="596.54559"
+         id="tspan1224"
+         sodipodi:role="line">die haben für alle häufig verwendeten Tamagotchi/THS</tspan><tspan
+         id="tspan1230"
+         style="stroke-width:0.264583"
+         y="402.90805"
+         x="596.54559"
+         sodipodi:role="line">szenen, wie z.B. der Martin Blum der wie mit</tspan><tspan
+         id="tspan1234"
+         style="stroke-width:0.264583"
+         y="416.13718"
+         x="596.54559"
+         sodipodi:role="line">einem korn und eine waffe auf mich zielt</tspan><tspan
+         id="tspan1240"
+         style="stroke-width:0.264583"
+         y="429.3663"
+         x="596.54559"
+         sodipodi:role="line" /><tspan
+         id="tspan1242"
+         style="stroke-width:0.264583"
+         y="442.59543"
+         x="596.54559"
+         sodipodi:role="line">-er würde mich abschiessen, virtual kill -&gt; skave, alles verlieren, </tspan><tspan
+         id="tspan1244"
+         style="stroke-width:0.264583"
+         y="455.82455"
+         x="596.54559"
+         sodipodi:role="line">-cAPI Martin</tspan><tspan
+         id="tspan1254"
+         style="stroke-width:0.264583"
+         y="469.05368"
+         x="596.54559"
+         sodipodi:role="line">-es sei weil ich claudine fast geschlagen hätte</tspan><tspan
+         id="tspan1246"
+         style="stroke-width:0.264583"
+         y="482.28281"
+         x="596.54559"
+         sodipodi:role="line">-er hätte mich für claudine abgeschossen &lt;- diese interpretation ist neu</tspan></text>
+    <text
+       id="text1250"
+       y="508.88116"
+       x="616.85809"
+       style="font-size:10.5833px;line-height:1.25;font-family:slave;-inkscape-font-specification:slave;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="508.88116"
+         x="616.85809"
+         id="tspan1248"
+         sodipodi:role="line">Dann das protokollieren wird mit &quot;Spalier&quot; eingeblendet, autisten dürfte man nciht mit spalier</tspan><tspan
+         id="tspan1252"
+         style="stroke-width:0.264583"
+         y="522.11029"
+         x="616.85809"
+         sodipodi:role="line">bedrängen, die würden voralem druch menschen die gewalt verübt gegen den auteisten vaben suziid begehen</tspan></text>
+    <text
+       id="text1258"
+       y="77.069328"
+       x="447.95206"
+       style="font-size:37.7191px;line-height:1.25;font-family:slave;-inkscape-font-specification:slave;stroke-width:0.94298"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.94298"
+         y="77.069328"
+         x="447.95206"
+         id="tspan1256"
+         sodipodi:role="line">Relevant</tspan></text>
+    <path
+       id="path1260"
+       d="M 403.04243,68.420998 207.40115,99.424264"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1264);stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.003px;line-height:1.25;font-family:slave;-inkscape-font-specification:slave;stroke-width:0.500077"
+       x="561.80225"
+       y="345.36014"
+       id="text1258-5"><tspan
+         sodipodi:role="line"
+         id="tspan1256-3"
+         x="561.80225"
+         y="345.36014"
+         style="stroke-width:0.500077">Spam,Bedränung,Morddrohungen gegen Marc jr druch Szenen bei Blums</tspan></text>
+    <text
+       id="text1316"
+       y="91.799294"
+       x="817.3916"
+       style="font-size:26.3772px;line-height:1.25;font-family:slave;-inkscape-font-specification:slave;stroke-width:0.659431"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.659431"
+         y="91.799294"
+         x="817.3916"
+         id="tspan1314"
+         sodipodi:role="line">wie wird erkannt, dass das relevant ist</tspan><tspan
+         id="tspan1318"
+         style="stroke-width:0.659431"
+         y="124.77079"
+         x="817.3916"
+         sodipodi:role="line">-&gt;consensuus detection der 1980er THS?</tspan></text>
+    <text
+       id="text1322"
+       y="-964.22876"
+       x="321.3808"
+       style="font-size:89.4636px;line-height:1.25;font-family:slave;-inkscape-font-specification:slave;stroke-width:2.23659"
+       xml:space="preserve"><tspan
+         style="stroke-width:2.23659"
+         y="-964.22876"
+         x="321.3808"
+         id="tspan1320"
+         sodipodi:role="line">Vor Pfisterer, Urs, Astrid, Martin</tspan><tspan
+         id="tspan1324"
+         style="stroke-width:2.23659"
+         y="-852.39923"
+         x="321.3808"
+         sodipodi:role="line">habe ich ein massives PTBS, das ist </tspan><tspan
+         id="tspan1326"
+         style="stroke-width:2.23659"
+         y="-740.56976"
+         x="321.3808"
+         sodipodi:role="line">vorsätzlich um es revictimizen zu</tspan><tspan
+         id="tspan1328"
+         style="stroke-width:2.23659"
+         y="-628.74023"
+         x="321.3808"
+         sodipodi:role="line">können, diese herren in den knast sperren</tspan><tspan
+         id="tspan1330"
+         style="stroke-width:2.23659"
+         y="-516.91077"
+         x="321.3808"
+         sodipodi:role="line">wäre wirklich therapeutisch für mich</tspan><tspan
+         id="tspan1332"
+         style="stroke-width:2.23659"
+         y="-405.08124"
+         x="321.3808"
+         sodipodi:role="line">vermutlich erkennt deren THS wenn ich </tspan><tspan
+         id="tspan1334"
+         style="stroke-width:2.23659"
+         y="-293.25174"
+         x="321.3808"
+         sodipodi:role="line">suizidal werde und die geniessen das dann</tspan><tspan
+         id="tspan1336"
+         style="stroke-width:2.23659"
+         y="-181.42224"
+         x="321.3808"
+         sodipodi:role="line">-&gt;verhaltenssucht der Täter </tspan></text>
+  </g>
+</svg>

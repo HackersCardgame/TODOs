@@ -1,0 +1,102 @@
+#!/bin/bash
+
+mkdir png
+
+find . -type f -name "*PNG" -exec cp '{}' png \;
+find . -type f -name "*Png" -exec cp '{}' png \;
+find . -type f -name "*png" -exec cp '{}' png \;
+
+mkdir jpg
+
+find . -type f -name "*JPG" -exec cp '{}' jpg \;
+find . -type f -name "*Jpg" -exec cp '{}' jpg \;
+find . -type f -name "*jpg" -exec cp '{}' jpg \;
+
+mkdir jpe
+
+find . -type f -name "*JPE" -exec cp '{}' jpe \;
+find . -type f -name "*Jpe" -exec cp '{}' jpe \;
+find . -type f -name "*jpe" -exec cp '{}' jpe \;
+
+mkdir jpeg
+
+find . -type f -name "*JPEG" -exec cp '{}' jpeg \;
+find . -type f -name "*Jpeg" -exec cp '{}' jpeg \;
+find . -type f -name "*jpeg" -exec cp '{}' jpeg \;
+
+mkdir gif
+
+find . -type f -name "*GIF" -exec cp '{}' gif \;
+find . -type f -name "*Gif" -exec cp '{}' gif \;
+find . -type f -name "*gif" -exec cp '{}' gif \;
+
+
+mkdir svgs
+
+find . -type f -name "*svg" -exec cp '{}' svgs \;
+find . -type f -name "*Svg" -exec cp '{}' svgs \;
+find . -type f -name "*SVG" -exec cp '{}' svgs \;
+
+
+mkdir ais
+
+find . -type f -name "*ai" -exec cp '{}' ais \;
+find . -type f -name "*Ai" -exec cp '{}' ais \;
+find . -type f -name "*AI" -exec cp '{}' ais \;
+
+#TODO
+#mkdir txts
+#
+#find . -type f -name "*txt" -exec cp '{}' \; txts
+#find . -type f -name "*Txt" -exec cp '{}' \; txts
+#find . -type f -name "*TXT" -exec cp '{}' \; txts
+
+
+cp bySize.sh png
+cd png
+./bySize.sh
+
+cp bySize.sh jpg
+cd jpg
+./bySize.sh
+
+cp bySize.sh jpe
+cd jpe
+./bySize.sh
+
+cp bySize.sh jpeg
+cd jpeg
+./bySize.sh
+
+cp bySize.sh gif
+cd gif
+./bySize.sh
+
+cp bySize.sh ais
+cd ais
+./bySize.sh
+
+cp bySize.sh svgs
+cd svgs
+./bySize.sh
+
+
+
+
+
+md5deep -r png >png/md5
+
+md5deep -r jpg >jpg/md5
+
+md5deep -r jpe >jpe/md5
+
+md5deep -r jpeg >jpeg/md5
+
+md5deep -r gif >gif/md5
+
+md5deep -r ais >ais/md5
+
+md5deep -r svgs >svgs/md5
+
+
+

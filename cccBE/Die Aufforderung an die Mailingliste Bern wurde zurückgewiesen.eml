@@ -1,0 +1,46 @@
+Return-Path: <bern-bounces@chaostreff.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.0.0.105])
+	by popimap018.mail.hostpoint.ch with LMTP
+	id CCBCJ98Yj19yzwAA7JE5TA
+	(envelope-from <bern-bounces@chaostreff.ch>)
+	for <mail@marclandolt.ch>; Tue, 20 Oct 2020 19:05:35 +0200
+Received: from mxin013.mail.hostpoint.ch ([10.4.2.213])
+	by mail-lb1.adm.hostpoint.ch with LMTP id 6Hg7J98Yj19dmgAA9BAvQA
+	; Tue, 20 Oct 2020 19:05:35 +0200
+Received: from sonne.notwork.ch ([95.128.33.41] helo=sonne.alt-f4.ch)
+	by mxin013.mail.hostpoint.ch with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92.3 (FreeBSD))
+	(envelope-from <bern-bounces@chaostreff.ch>)
+	id 1kUv4p-000Goz-JM
+	for mail@marclandolt.ch; Tue, 20 Oct 2020 19:05:35 +0200
+Received: from sonne.alt-f4.ch (localhost [IPv6:::1])
+	by sonne.alt-f4.ch (Postfix) with ESMTP id 3972A6A28
+	for <mail@marclandolt.ch>; Tue, 20 Oct 2020 19:05:35 +0200 (CEST)
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Subject: =?utf-8?q?Die_Aufforderung_an_die_Mailingliste_Bern_wurde_zur?=
+ =?utf-8?q?=C3=BCckgewiesen?=
+From: bern-owner@chaostreff.ch
+To: mail@marclandolt.ch
+Message-ID: <mailman.1.1603213533.32129.bern@chaostreff.ch>
+Date: Tue, 20 Oct 2020 19:05:33 +0200
+Precedence: bulk
+X-BeenThere: bern@chaostreff.ch
+X-Mailman-Version: 2.1.18
+List-Id: Chaostreff Bern <bern.chaostreff.ch>
+X-List-Administrivia: yes
+Errors-To: bern-bounces@chaostreff.ch
+Sender: "Bern" <bern-bounces@chaostreff.ch>
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+SWhyZSBBbmZyYWdlIGFuIGRpZSBNYWlsaW5nbGlzdGUgQmVybiAKCiAgICBWZXLDtmZmZW50bGlj
+aHVuZyBJaHJlciBOYWNocmljaHQgYmV0cmVmZmVuZCAiUmU6IFtDaGFvcyBCZXJuXQpoYWJlbiB3
+aXIgZWluZSBCbG9ja2xpc3Q/ICh3YXI6IEVzIHdpcmQgbmVkIHNvIGhlaXNzIGfDpHNzZSB3aWUg
+a29jaGV0CndpcmQuLi4pIgoKd3VyZGUgdm9tIExpc3Rlbm1vZGVyYXRvciBtaXQgZm9sZ2VuZGVy
+IEJlZ3J1ZW5kdW5nIGFiZ2V3aWVzZW46CgoiSWhyZSBOYWNocmljaHQgd2FyIHp1IHVtZmFuZ3Jl
+aWNoLiBEaWUgbWF4aW1hbCB6dWzDpHNzaWdlIEdyw7bDn2UKYmV0csOkZ3QgMTAwIEtCLiIKCkZy
+YWdlbiBvZGVyIEtvbW1lbnRhcmUgcmljaHRlbiBTaWUgYml0dGUgYW4gZGVuIExpc3RlbmFkbWlu
+aXN0cmF0b3I6IAoKICAgIGJlcm4tb3duZXJAY2hhb3N0cmVmZi5jaAo=

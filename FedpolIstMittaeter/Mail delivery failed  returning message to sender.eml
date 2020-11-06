@@ -1,0 +1,148 @@
+Return-Path: <>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.0.0.105])
+	by popimap018.mail.hostpoint.ch with LMTP
+	id EKugNcqUpF8aPgEA7JE5TA
+	(envelope-from <>)
+	for <mail@marclandolt.ch>; Fri, 06 Nov 2020 01:11:54 +0100
+Received: from mxin019.mail.hostpoint.ch ([10.4.2.219])
+	by mail-lb1.adm.hostpoint.ch with LMTP id OHyENcqUpF+pDgAA9BAvQA
+	; Fri, 06 Nov 2020 01:11:54 +0100
+Received: from mxout014.mail.hostpoint.ch ([217.26.49.174])
+	by mxin019.mail.hostpoint.ch with esmtps (TLSv1.3:TLS_AES_256_GCM_SHA384:256)
+	(Exim 4.92.3 (FreeBSD))
+	id 1kapMA-0007zy-RB
+	for mail@marclandolt.ch; Fri, 06 Nov 2020 01:11:54 +0100
+Received: from mailnull by mxout014.mail.hostpoint.ch with local (Exim 4.92.3 (FreeBSD))
+	id 1kapMA-000KbA-O6
+	for mail@marclandolt.ch; Fri, 06 Nov 2020 01:11:54 +0100
+X-Failed-Recipients: adslkg@fedpol.admin.ch
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@mxout014.mail.hostpoint.ch>
+To: mail@marclandolt.ch
+Content-Type: multipart/report; report-type=delivery-status; boundary=1604621514-eximdsn-33613
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1kapMA-000KbA-O6@mxout014.mail.hostpoint.ch>
+Date: Fri, 06 Nov 2020 01:11:54 +0100
+X-Whitelisted-By: dnswl.hostpoint.dnslist
+X-Vs-State: BOUNCE
+X-Hostpoint-Spambox: NO
+
+--1604621514-eximdsn-33613
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  adslkg@fedpol.admin.ch
+    host mailgate1.admin.ch [162.23.32.31]
+    SMTP error from remote mail server after RCPT TO:<adslkg@fedpol.admin.ch>:
+    554 5.7.1 <adslkg@fedpol.admin.ch>: Recipient address rejected:
+    Access denied
+
+--1604621514-eximdsn-33613
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; mxout014.mail.hostpoint.ch
+
+Action: failed
+Final-Recipient: rfc822;adslkg@fedpol.admin.ch
+Status: 5.0.0
+Remote-MTA: dns; mailgate1.admin.ch
+Diagnostic-Code: smtp; 554 5.7.1 <adslkg@fedpol.admin.ch>: Recipient address rejected: Access denied
+
+--1604621514-eximdsn-33613
+Content-type: message/rfc822
+
+Return-path: <mail@marclandolt.ch>
+Received: from [10.0.2.44] (helo=asmtp014.mail.hostpoint.ch)
+	by mxout014.mail.hostpoint.ch with esmtp (Exim 4.92.3 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1kapKo-000K7n-B8; Fri, 06 Nov 2020 01:10:30 +0100
+Received: from 178-82-215-219.dynamic.hispeed.ch ([178.82.215.219] helo=[192.168.179.118])
+	by asmtp014.mail.hostpoint.ch with esmtpsa (TLSv1.3:TLS_AES_256_GCM_SHA384:256)
+	(Exim 4.92.3 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1kapKo-00090U-7V; Fri, 06 Nov 2020 01:10:30 +0100
+X-Authenticated-Sender-Id: mail@marclandolt.ch
+Subject: Re: Nur falls ich doch noch abgelebt werde hier noch meine letzten
+ Erkenntnisse
+From: "Marc jr. Landolt" <mail@marclandolt.ch>
+To: Schleusener Samer <Samer.Schleusener@pdag.ch>, info@fedpol.admin.ch,
+ eduard.zander@pdag.ch, michael.ritter@kapo.ag.ch,
+ Obergericht.Verwaltungsgericht@ag.ch, kb3.bern@helsana.ch,
+ AarauEPD <EPD.Aarau@pdag.ch>, =?UTF-8?Q?K=c3=bcng_Walter_GKABGAAR?=
+ <Walter.Kueng@ag.ch>, direktion@bger.ch, "Kanzlei@bger.ch"
+ <Kanzlei@bger.ch>, Hanno Katrin <Katrin.Hanno@pdag.ch>
+References: <e46e154d-7c55-99fd-2903-407045f47e1a@marclandolt.ch>
+ <40859B87-BDD5-4EB4-9164-EF790A23C34B@pdag.ch>
+ <bc775a17-8455-98fd-bbfc-71c5f2d9b9e2@marclandolt.ch>
+ <8B699550-D659-4B4B-8482-B51D1FEFE47C@pdag.ch>
+ <3D4B73ED-C72F-49E7-9ABC-55D1F675A4D7@pdag.ch>
+ <ecb1c62d-38fa-dade-c880-fbe1c22d66a4@marclandolt.ch>
+ <8b29d887-e58d-0dda-4b88-7a25466f01ed@marclandolt.ch>
+ <774fdd72-3b79-faf0-e284-13e43ef05cbf@marclandolt.ch>
+ <0921f7d6-ae65-a529-044e-bceb5c278d4e@marclandolt.ch>
+ <118e55f4-8490-fd1b-776a-942669a73422@marclandolt.ch>
+ <255051fe-be65-a5a4-228a-16b294856d60@marclandolt.ch>
+ <316715f2-09e9-e22d-2cd4-f1d7f3cf5d00@marclandolt.ch>
+Message-ID: <29d37b32-553a-c036-bced-18f8592d8fcf@marclandolt.ch>
+Date: Fri, 6 Nov 2020 01:10:27 +0100
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+ Thunderbird/78.4.0
+MIME-Version: 1.0
+In-Reply-To: <316715f2-09e9-e22d-2cd4-f1d7f3cf5d00@marclandolt.ch>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Guten Tag
+
+ich hätte da gerne eine Stellungnahme dazu, denn das ist meiner Meinung 
+nach ein Offizial-Delikt:
+
+StGB 185 / Menschenhandel / ...
+ 
+                                                  1. Ich werde von 
+Offiziersfamilie mit einem Computerkurs angelockt worden m75
+
+2. von Tochter zugeritten und abgerichtet worden m38 
+
+
+3. Hörigkeit / Vertrauen vertrauen zu claudine aufgebaut worden und 
+Suizid trigger abgerichtet und getestet worden
+(Euphemismus "Pferde stehlen")
+
+4. 18 jahre als sklave missbraucht mit sprachsynthese von caludine 
+ 
+ 
+
+
+5. als es auffällt hängt mir der Poloizist Michael Ritter und der 
+Staatsanwalt Marco Spring den Alkaida-Vergewaltiger-Terroristen an
+
+6. Dann ist jetzt scheinbar permanent ein Team dabei insbesondere dann 
+wenn ich die Vergewaltigung durch Blums in einen Kontext setzen kann, 
+dass dann die Fr. Dr. Hanno einen erneunten StGB Art 59 ausstellt und 
+wieder alles vertuscht wird.
+
+Im Fall dass Claudine Blum anders als ich ihr Treueversprechen nicht 
+gehalten hat, muss davon ausgegangen werden, dass die Medizinische 
+Fakultät der Universität Basel zum Spass versucht Amokläufer zu 
+produzieren, da aber Autisten wie ich oder der Tobias Moser dabei Suizid 
+begehen müssten meiner Meinung nach somit diese Ärzte welche auch solche 
+Dinge tun per sofort unter Terrorverdacht gestellt werden. Es ist schon 
+klar, dass nicht die Ärzte Amok laufen aber diese sind diejenigen welche 
+die Amokläufer oder "Haschaschinen" wie der Jus Student Dominic Zschokke 
+der auch an der Uni Basel studiert hat es nennt.
+
+
+Mit freundlichen Grüssen
+
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+
+
+--1604621514-eximdsn-33613--
